@@ -1,4 +1,6 @@
 p{
     color: black;
     background-color: blanchedalmond;
+    width: auto;
+    height: fit-content;
 }
